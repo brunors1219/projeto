@@ -8,6 +8,11 @@
     ],
     "android": {
       "package": "com.brunors1532.App"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "44f786cc-407b-48a5-9635-5f8c60b11e01"
+      }
     }
   }
 }
